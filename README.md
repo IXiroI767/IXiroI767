@@ -1,4 +1,4 @@
-<h1 align="center">Hello world, II'm Xiro</h1>
+<h1 align="center">Hello world, I'm Xiro</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
 - How to reach me **devixiroi@gmail.com**
