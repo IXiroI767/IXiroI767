@@ -38,3 +38,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=IXiroI767&show_icons=true&theme=radical&count_private=true&include_all_commits=true&locale=ru&hide_border=true" alt="GitHub Stats" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IXiroI767&layout=compact&theme=radical&langs_count=6&locale=ru&hide_border=true" alt="Top Languages" width="400" />
 </p>
+
+<p>&nbsp;<img align="right" alt="gif" height="193" src="https://github-readme-stats.vercel.app/api?username=devixiroi&show_icons=true&locale=en" alt="devixiroi" /></p>
