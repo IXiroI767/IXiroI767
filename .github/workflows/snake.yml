@@ -1,40 +1,35 @@
 name: generate animation
 
 on:
-  # Запуск каждые 24 часа в 00:00 UTC
   schedule:
-    - cron: "0 0 * * *"
-  # Возможность запустить вручную через вкладку Actions
-  workflow_dispatch:
-  # Запуск при пуше в основную ветку (для тестов)
+    - cron: "0 0 * * *"  # каждый день в 00:00 UTC
+  workflow_dispatch:     # ручной запуск
   push:
     branches:
-      - main  # или master, если у вас так
+      - main             # или master, если у вас так
 
 jobs:
   generate:
     permissions:
-      contents: write  # Разрешение на запись файлов в репозиторий
-    runs-on: ubuntu-latest  # Использовать свежий Ubuntu-раннер
-    timeout-minutes: 5  # Максимальное время выполнения — 5 минут
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      # Шаг 1: Генерация SVG-анимации
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}  # Ваш ник на GitHub
+          github_user_name: IXiroI767  # ✅ Ваш никнейм
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.ACTION_SECRETS }}  # Ваш секрет из Шага 2
+          GITHUB_TOKEN: ${{ secrets.ACTION_SECRETS }}
 
-      # Шаг 2: Публикация результата в ветку 'output'
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output  # Ветка, куда сохранятся готовые файлы
-          build_dir: dist  # Папка с сгенерированными SVG
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.ACTION_SECRETS }}
