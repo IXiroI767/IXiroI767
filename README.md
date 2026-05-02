@@ -1,6 +1,6 @@
-<div align="center">
-<img src="./Resource/Image%20(2).png" style="width: 100%; height: 100px; object-fit: cover; display: block;">
-</div>
+<div align="center"><div align="center" style="width: 100%; height: 120px; overflow: hidden; background: #f0f0f0;">
+  <img src="./Resource/Image%20(2).png" alt="Profile" style="width: 100%; min-height: 100%; transform: scale(1.1);">
+</div></div>
 <h1 align="center">Hello world, I'm Xiro</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
