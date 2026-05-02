@@ -35,9 +35,6 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=IXiroI767&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&locale=ru">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=IXiroI767&show_icons=true&theme=github-light&count_private=true&include_all_commits=true&locale=ru">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IXiroI767&show_icons=true&theme=github&count_private=true&include_all_commits=true&locale=ru">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=IXiroI767&show_icons=true&theme=radical&count_private=true&include_all_commits=true&locale=ru&hide_border=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IXiroI767&layout=compact&theme=radical&langs_count=6&locale=ru&hide_border=true" alt="Top Languages" width="400" />
 </p>
