@@ -20,9 +20,14 @@
 
 <div align="left" style="white-space: nowrap; overflow-x: auto; padding: 4px 0;">
   <strong>Languages:</strong>&nbsp;
-  <a href="https://developer.mozilla.org/ru/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="38" height="38" title="HTML5"/>
-  </a>&nbsp; <a href="https://developer.mozilla.org/ru/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="38" height="38" title="CSS3"/>
-  </a>&nbsp;<a href="https://developer.mozilla.org/ru/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="38" height="38" title="JavaScript"/>
+  <a href="https://developer.mozilla.org/ru/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="38" height="38" title="HTML5"/>
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/ru/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="38" height="38" title="CSS3"/>
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="38" height="38" title="JavaScript"/>
   </a>
 </div>
 
@@ -39,8 +44,3 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IXiroI767&show_icons=true&theme=radical&hide_border=true&count_private=true" 
-       alt="GitHub Stats" 
-       style="max-width: 100%; height: auto;">
-</div>
