@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://github.com/IXiroI767/IXiroI767/blob/main/Resource/Image%20(2).png" 
-       alt="Profile Image" 
-       style="width: 100%; max-width: 100%; height: auto; max-height: 100px; object-fit: cover; display: block;">
+  <img src="URL" alt="Profile" style="width: 100%; height: auto; display: block;">
+</div>
 </div>
 <h1 align="center">Hello world, I'm Xiro</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
