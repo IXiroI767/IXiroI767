@@ -18,29 +18,28 @@
 
 </div>
 
-<div align="left" style="white-space: nowrap; overflow-x: auto; padding: 4px 0;">
-  <strong>Languages:</strong>&nbsp;
+<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center; padding: 4px 0;">
+  <strong>Languages:</strong>
   <a href="https://developer.mozilla.org/ru/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="38" height="38" title="HTML5"/>
-  </a>&nbsp;
+  </a>
   <a href="https://developer.mozilla.org/ru/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="38" height="38" title="CSS3"/>
-  </a>&nbsp;
+  </a>
   <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="38" height="38" title="JavaScript"/>
   </a>
 </div>
 
-<div align="left" style="white-space: nowrap; overflow-x: auto; padding: 4px 0;">
-  <strong>Tools:</strong>&nbsp;
+<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center; padding: 4px 0;">
+  <strong>Tools:</strong>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="38" height="38" title="Git"/>
-  </a>&nbsp;
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="38" height="38" title="VS Code"/>
-  </a>&nbsp;
+  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="38" height="38" title="Figma"/>
   </a>
 </div>
-
