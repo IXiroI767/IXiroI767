@@ -33,5 +33,3 @@
     <img alt="github contribution grid snake animation" src="https://github.com/IXiroI767/IXiroI767/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
-<p>&nbsp;<img align="right" alt="gif" height="193" src="https://github-readme-stats.vercel.app/api?username=devixiroi&show_icons=true&locale=en" alt="devixiroi" /></p>
