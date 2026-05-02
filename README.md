@@ -20,26 +20,26 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center; padding: 4px 0;">
   <strong>Languages:</strong>
-  <a href="https://developer.mozilla.org/ru/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="38" height="38" title="HTML5"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/html.svg?raw=true" width="50" height="50" alt="HTML" title="HTML5"/>
   </a>
-  <a href="https://developer.mozilla.org/ru/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="38" height="38" title="CSS3"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg?raw=true" width="50" height="50" alt="CSS" title="CSS3"/>
   </a>
-  <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="38" height="38" title="JavaScript"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/javascript.svg?raw=true" width="50" height="50" alt="JavaScript" title="JavaScript"/>
   </a>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center; padding: 4px 0;">
   <strong>Tools:</strong>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="38" height="38" title="Git"/>
+    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/git-dark.svg?raw=true" width="50" height="50" alt="Git" title="Git"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="38" height="38" title="VS Code"/>
+    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/vscode-dark.svg?raw=true" width="50" height="50" alt="VS Code" title="VS Code"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="38" height="38" title="Figma"/>
+    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/figma.svg?raw=true" width="50" height="50" alt="Figma" title="Figma"/>
   </a>
 </div>
