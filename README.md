@@ -7,8 +7,16 @@
 </h1>
 
 <h3 align="center">
-  Passionate Frontend Developer from Russia 🇷🇺
+  Passionate Frontend Developer
 </h3>
+
+<div align="center">
+  
+  📧 **Email:** [devixiroi@gmail.com](mailto:devixiroi@gmail.com)  
+  💤 **Fun fact:** I love sleep  
+  🕒 **Timezone:** GMT+2 
+
+</div>
 
 
 <p align="center">
