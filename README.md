@@ -1,9 +1,7 @@
-<div align="center">
-  <img src="./Resource/image-profile.png" 
-       alt="Profile Banner" 
-       style="width: 100%; height: 100px; display: block;">
+<div align="center" style="width: 100%; height: 120px; overflow: hidden; background: #f0f0f0;">
+  <img src="./Resource/Image%20(2).png" alt="Profile" style="width: 100%; min-height: 100%; transform: scale(1.1);">
 </div>
-<!-- Заголовок с эмодзи и градиентом (работает в GitHub) -->
+
 <h1 align="center">
    Hello, I'm <strong>Xiro</strong>
 </h1>
