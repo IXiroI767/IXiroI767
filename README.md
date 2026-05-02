@@ -1,4 +1,7 @@
-![alt text](https://github.com/IXiroI767/IXiroI767/blob/main/Resource/Image%20(2).png "Profile Image")
+<img src="https://github.com/IXiroI767/IXiroI767/blob/main/Resource/Image%20(2).png" 
+     alt="Profile Image" 
+     width="400" 
+     style="max-width:100%; height:auto; border-radius: 8px;">
 <h1 align="center">Hello world, I'm Xiro</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
