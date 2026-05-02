@@ -18,13 +18,6 @@
 
 </div>
 
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" 
-       width="600" height="2" alt="divider">
-</p>
-
-
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -40,3 +33,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" title="React"/>
   </a>
 </p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IXiroI767&show_icons=true&theme=radical&hide_border=true" 
+       alt="GitHub Stats" 
+       style="max-width: 100%; height: auto;">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IXiroI767&layout=compact&theme=radical&hide_border=true" 
+       alt="Top Languages" 
+       style="max-width: 100%; height: auto;">
+</div>
