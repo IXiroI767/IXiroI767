@@ -1,14 +1,21 @@
-<div align="center"><div align="center" style="width: 100%; height: 120px; overflow: hidden; background: #f0f0f0;">
-  <img src="./Resource/Image%20(2).png" alt="Profile" style="width: 100%; min-height: 100%; transform: scale(1.1);">
-</div></div>
-<h1 align="center">Hello world, I'm Xiro</h1>
-<h3 align="center">A passionate frontend developer from Russia</h3>
+<div align="center">
+  <img src="./Resource/image-profile.png" 
+       alt="Profile Banner" 
+       style="width: 100%; height: 100px; display: block;">
+</div>
+<!-- Заголовок с эмодзи и градиентом (работает в GitHub) -->
+<h1 align="center">
+   Hello, I'm <strong>Xiro</strong>
+</h1>
 
-- How to reach me **devixiroi@gmail.com**
+<h3 align="center">
+  Passionate Frontend Developer from Russia 🇷🇺
+</h3>
 
-- Fun fact **I love sleep**
 
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" 
+       width="600" height="2" alt="divider">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
