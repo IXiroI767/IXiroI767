@@ -33,3 +33,16 @@
     <img alt="github contribution grid snake animation" src="https://github.com/IXiroI767/IXiroI767/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=IXiroI767&show_icons=true&theme=radical&count_private=true&include_all_commits=true&locale=ru" 
+    alt="GitHub Stats" 
+    width="45%" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IXiroI767&layout=compact&theme=radical&langs_count=6&locale=ru" 
+    alt="Top Languages" 
+    width="45%" 
+  />
+</div>
