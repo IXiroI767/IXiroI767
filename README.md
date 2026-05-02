@@ -18,28 +18,21 @@
 
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center; padding: 4px 0;">
-  <strong>Languages:</strong>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/html.svg?raw=true" width="50" height="50" alt="HTML" title="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg?raw=true" width="50" height="50" alt="CSS" title="CSS3"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/javascript.svg?raw=true" width="50" height="50" alt="JavaScript" title="JavaScript"/>
-  </a>
+### Frontend Core
+<div>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/html.svg" width="50" height="50" alt="html" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50" height="50" alt="css" /></a>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center; padding: 4px 0;">
-  <strong>Tools:</strong>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/git-dark.svg?raw=true" width="50" height="50" alt="Git" title="Git"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/vscode-dark.svg?raw=true" width="50" height="50" alt="VS Code" title="VS Code"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/figma.svg?raw=true" width="50" height="50" alt="Figma" title="Figma"/>
-  </a>
+### Languages
+<div>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/javascript.svg" width="50" height="50" alt="javascript" /></a>
+</div>
+
+### Tools
+<div>
+    <div>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/git-dark.svg" width="50" height="50" alt="git" /></a>
+        <a href="https://github.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/github-dark.svg" width="50" height="50" alt="github" /></a>
+    </div>
 </div>
